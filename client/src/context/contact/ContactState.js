@@ -37,9 +37,7 @@ const ContactState = (props) => {
         type: CONTACT_ERROR,
         payload: err.response.msg
       })
-    }
-    
-    
+    }  
   };
 
   //   Add contact
