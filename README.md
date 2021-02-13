@@ -1,17 +1,17 @@
 # Contact Keeper Application
 
-A tutorial-driven, full-stack application for users to keep and create contact information for their roll-o-dex.
+A tutorial-driven, full-stack application for users to keep and create contact information for people in their rolodex.
 
 ## Technology Stack
 
-- MongoDb
+- MongoDB
 - Express
 - React.js
 - Node.js
 
 ## Description of Application
 
-The purpose of this project was to learn how to create full-stack applications with React. In additional, I also learned how to manage global app state with the Context API, how to encrypt passwords with JSON Web Token, and how to make relationships between databases in MongoDb.
+The purpose of this project was to learn how to create full-stack applications with React. In addition, I also learned how to manage global app state with the Context API, how to encrypt passwords and verify authentication with JSON Web Token, and how to make relationships between databases in MongoDB.
 
 The user will either login or register a new account, and their contact list will be brought up. A form allows them to add new contacts, and a searchbar allows them to filter through existing contacts to view and make changes.
 
